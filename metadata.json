@@ -1,0 +1,6 @@
+{
+  "name": "PlushPaws",
+  "description": "Social media app for emotional support dog plushie companions. Connect, share photos, stories, reels, direct message, and explore a personalized plushie discovery feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
